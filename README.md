@@ -1,1 +1,1 @@
-# solar-boat-dashboard
+Repository for CU Solar Boat's Dashboard
